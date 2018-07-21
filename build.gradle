@@ -30,6 +30,6 @@ dependencies {
 
 task print() {
 	doLast {
-		println "github push complete"
+		println "github push complete--This is Jenkins-Slack Test"
 	}
 }
